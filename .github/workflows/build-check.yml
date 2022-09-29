@@ -20,5 +20,5 @@ on:
       - 'MANIFEST.in'
 
 jobs:
-  Build Check:
+  Build-Check:
     uses: MAK-Relic-Tool/Workflows/.github/workflows/build-check.yml@main
