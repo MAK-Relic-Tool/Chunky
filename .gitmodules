@@ -1,9 +1,0 @@
-[submodule "Core"]
-	path = Core
-	url = https://github.com/MAK-Relic-Tool/Relic-Tool-Chunky-Core
-[submodule "V1"]
-	path = V1
-	url = https://github.com/MAK-Relic-Tool/Relic-Tool-Chunky-V1
-[submodule "V3"]
-	path = V3
-	url = https://github.com/MAK-Relic-Tool/Relic-Tool-Chunky-V3
